@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-llwafl.shiokambing12ful.lat/sitemap.xml
